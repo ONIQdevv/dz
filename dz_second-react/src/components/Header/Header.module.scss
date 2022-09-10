@@ -1,0 +1,35 @@
+.shopCart {
+    float: right;
+    cursor: pointer;
+    transition: color 500ms ease;
+    position: relative;
+    &:hover {
+       color: #dc3d3d;
+    }
+ }
+ 
+ .activeShopCart {
+    color: #dc3d3d;
+ }
+ 
+ .shopCartContainer {
+    position: absolute;
+    top: 30px;
+    right: 0;
+    width: 450px;
+    min-height: 100px;
+    background: #fafafa;
+    -webkit-box-shadow: 4px 5px 15px -7px #606060;
+    box-shadow: 4px 5px 15px -7px #606060;
+ }
+
+.iconsContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.empty {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+ 

@@ -1,0 +1,91 @@
+[
+    {
+        "id": 0,
+        "name": "IPhone 12 Pro Max",
+        "price": 42293,
+        "image": "https://y.ua/pimg/568x568/a5/ae/1643704.png",
+        "code": 120972104710,
+        "color": "blue"
+    },
+
+    {
+        "id": 1,
+        "name": "IPhone 13 Pro Max",
+        "price": 50000,
+        "image": "https://www.mrfix.ua/storage/624/489/ec4/product-product-apple-iphone-13-pro-max-128gb-alpine-green-12269-1000x1000.webp",
+        "code": 987596793,
+        "color": "green"
+    },
+
+    {
+        "id": 2,
+        "name": "IPhone 11 Pro Max",
+        "price": 42293,
+        "image": "https://y.ua/pimg/568x568/76/2c/1217702.png",
+        "code": 342543343,
+        "color": "black"
+    },
+
+    {
+        "id": 3,
+        "name": "IPhone 13 Pro",
+        "price": 30000,
+        "image": "https://i.insider.com/617ad55a46a50c0018d40cc9?width=1136&format=jpeg",
+        "code": 78956967,
+        "color": "white"
+    },
+
+    {
+        "id": 4,
+        "name": "IPhone 12 Pro",
+        "price": 25000,
+        "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_announce-iphone12pro_10132020.jpg.landing-big_2x.jpg",
+        "code": 32423,
+        "color": "blue"
+    },
+
+    {
+        "id": 5,
+        "name": "IPhone 11 Pro",
+        "price": 24500,
+        "image": "https://ipartner.com.ua/image/cache/catalog/imgmainru2_195/clearapple-iphone-11-pro-64-gb-gold-zolotoj-680x630.jpeg",
+        "code": 86473423,
+        "color": "gold"
+    },
+
+    {
+        "id": 6,
+        "name": "IPhone 13",
+        "price": 25000,
+        "image": "https://hotline.ua/img/tx/300/3001195395.jpg",
+        "code": 13124978579834,
+        "color": "blue"
+    },
+
+    {
+        "id": 7,
+        "name": "IPhone 12",
+        "price": 32000,
+        "image": "https://estore.ua/media/catalog/product/cache/8/image/650x650/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-purple_1_.jpeg",
+        "code": 452346236,
+        "color": "purple"
+    },
+
+    {
+        "id": 8,
+        "name": "IPhone 11",
+        "price": 22500,
+        "image": "https://apple.lutsk.ua/wp-content/uploads/2020/10/iphone11-white-select-2019_GEO_EMEA.png",
+        "code": 7689796,
+        "color": "white"
+    },
+
+    {
+        "id": 9,
+        "name": "IPhone XR",
+        "price": 18000,
+        "image": "https://iyo-store.com.ua/images/product/7217/gallery/25418/original.jpg?_=1492012031",
+        "code": 526345634,
+        "color": "red"
+    }
+]

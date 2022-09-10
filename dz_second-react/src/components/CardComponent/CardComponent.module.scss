@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5rem;
+    margin-top: 100px;
+}
+
